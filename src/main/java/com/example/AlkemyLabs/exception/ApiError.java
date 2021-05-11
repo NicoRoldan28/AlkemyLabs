@@ -1,4 +1,4 @@
-package com.utn.parcial.exception;
+package com.example.AlkemyLabs.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
